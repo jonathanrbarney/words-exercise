@@ -1,17 +1,3 @@
-# Welcome!
-
-## Disclaimer
-
-This is a team exercise! It's not a test, exam, etc. It is to help us evaluate:
-
-- How you work with us as a team
-- How you research the unknown. You can use Google or other tools/resources during this exercise
-- How you solve problems
-
-Additionally, we want you to:
-
-- Learn something
-- Have fun!
 
 ## Exercise
 
